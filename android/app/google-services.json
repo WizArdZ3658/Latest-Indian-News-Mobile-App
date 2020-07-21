@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "956637647456",
+    "firebase_url": "https://react-native-firebase-480c2.firebaseio.com",
+    "project_id": "react-native-firebase-480c2",
+    "storage_bucket": "react-native-firebase-480c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956637647456:android:1fbd3e734b7f962265e905",
+        "android_client_info": {
+          "package_name": "somuZ3658.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956637647456-n43vl8ac6ia3anu204kdgpifte6t8ac9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "somuZ3658.newsapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "956637647456-a5meh54ihvj7697avq98tekolmhb5mq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgaY9j37_0BaUPdpW1lv9RNC_TMw4WvtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956637647456-a5meh54ihvj7697avq98tekolmhb5mq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
