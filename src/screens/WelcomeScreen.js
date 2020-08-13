@@ -22,7 +22,9 @@ class WelcomeScreen extends Component {
     try {
       await GoogleSignin.hasPlayServices();
       const userInfo = await GoogleSignin.signIn();
+
       console.log(userInfo.user);
+
       this.setState({user: userInfo});
     } catch (error) {
       if (error.code === statusCodes.SIGN_IN_CANCELLED) {
@@ -43,6 +45,7 @@ class WelcomeScreen extends Component {
       await GoogleSignin.revokeAccess();
       await GoogleSignin.signOut();
       this.setState({user: null}); // Remember to remove the user from your app's state as well
+      console.log('Signed out');
     } catch (error) {
       console.error(error);
     }
