@@ -9,7 +9,7 @@ Watch the demo video [here](https://drive.google.com/file/d/1WWr8pBbCwpKFuve1njY
 Javascript, Git
 
 ##### Frameworks, Libraries and Tools:-
-React, React-Native, Firebase-Auth, NewsAPI, Android Studio, JSON
+React, React-Native, Firebase-Auth, [NewsAPI](https://newsapi.org/), Android Studio, JSON
 
 ##### Environment:-
 Android
